@@ -11,7 +11,21 @@ pip install dvc
 ```
 
 ```bash
+git init
+```
+
+```bash
+dvc init
+```
+
+```bash
 dvc repro
 ```
 
+```bash
 dvc dag
+```
+
+```bash
+touch filename.ext
+```
